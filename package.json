@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/DevMountain/mini-sql-node-massive#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "massive": "^6.6.0"
   }
 }
